@@ -58,7 +58,6 @@ sub yyyymmdd {
 
 =head1 TESTING
 
-
 =head2 Set up working environment for test.t files
 
 =cut
