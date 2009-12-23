@@ -89,4 +89,3 @@ sub makeOrgLogForYear {
         }
     }
 }
-
